@@ -11,7 +11,7 @@
     <modules>
         <module>parent</module>
         <module>eureka-server</module>
-        <module>service-client</module>
-        <module>consume-client</module>
+        <module>eureka-consume</module>
+        <module>eureka-service</module>
     </modules>
 </project>
